@@ -39,7 +39,7 @@ class App extends Component {
     const { cep, input } = this.state;
     return (
       <div className="container">
-        <h1 className="title">Buscador de CEP</h1>
+        <h1 className="title">Procure seu endereço</h1>
 
         <div className="containerImput">
           <input
