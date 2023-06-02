@@ -22,4 +22,4 @@ Foi desenvolvido um app para buscar seu cep ultilizando a API do VIACEP.
 </details>
 
 ## Link do projeto:
-https://app.netlify.com/sites/procure-seu-endereco/
+https://procure-seu-endereco.netlify.app/
